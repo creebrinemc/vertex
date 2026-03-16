@@ -43,10 +43,40 @@ We are focusing on checking the boxes that the original project left open, plus 
 
 ## 🛠️ Installation
 
-### Building from Source (Recommended)
-Vertex is built using **SwiftUI** and **AppKit**. To run the latest dev build:
+### Clone the Repository
+git clone https://github.com/YOUR_USERNAME/Vertex.git
+cd Vertex
 
-1. **Clone the Repository**:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Vertex.git](https://github.com/YOUR_USERNAME/Vertex.git)
-   cd Vertex
+### Open the Project
+open Vertex.xcodeproj
+
+### Build and Run
+In Xcode, go to Signing & Capabilities.
+Select your personal Apple ID in the Team dropdown.
+Press Cmd + R to launch.
+
+---
+
+## 🚀 Usage
+
+- **Hover:** Move your cursor to the notch to expand the Vertex dashboard.
+- **Interactions:** Manage music, drag files to the shelf, or check your upcoming meetings.
+- **Customization:** Right-click the Menu Bar icon to access the Vertex settings and layout editor.
+
+---
+
+## 🤝 Contributing
+I started this fork to learn and to make the Mac experience better for everyone. If you have ideas for new Quality of Life features, feel free to open an issue or a Pull Request!
+
+## 🎉 Acknowledgments
+Vertex wouldn't be possible without the hard work of:
+- **[TheBoredTeam](https://github.com/TheBoredTeam/boring.notch)** – The original creators of Boring Notch.
+- **[MediaRemoteAdapter](https://github.com/ungive/mediaremote-adapter)** – Powering our media controls.
+- **[NotchDrop](https://github.com/Lakr233/NotchDrop)** – Inspiration for the Shelf.
+
+---
+
+<p align="center">
+  <b>Vertex</b> <br>
+  <i>"The peak of your macOS experience."</i>
+</p>
